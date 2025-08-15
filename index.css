@@ -1,0 +1,17 @@
+@import "https://www.nerdfonts.com/assets/css/webfont.css";
+
+body {
+    background-color: black;
+    color: white;
+    font-family: "JetBrains Mono", sans-serif;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.nf-dev-python {
+    font-family: "FantasqueSansM Nerd Font Propo", monospace;
+    font-size: 40px;
+}
